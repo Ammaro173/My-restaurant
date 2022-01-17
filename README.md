@@ -1,7 +1,8 @@
 # My-restaurant
 Task2
 
-![Task 2 - Copy](https://user-images.githubusercontent.com/96839551/149801493-2e21ffe3-ab81-4e99-86e1-e3b6c22943a9.png)
+![Task2 copy2](https://user-images.githubusercontent.com/96839551/149803846-669f8d09-e5d7-40cb-8e1b-13c2dd6eefcf.png)
+
 
 >built using Figma
 
